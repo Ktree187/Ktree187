@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ktree187
-- 👀 I’m interested in the STEM Universer, Problem Solving, Education and Development.
+- 👀 I’m interested in the STEM Universe, Problem Solving, Education and Development.
 - 🌱 I’m currently learning how to access a career in software development.
 - 💞️ I’m looking to collaborate on projects accesible to student programmers. 
 - 📫 How to reach me katree@madisoncollege.edu
